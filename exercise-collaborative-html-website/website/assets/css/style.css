@@ -1,0 +1,47 @@
+body{
+    background: #BDBDBD;
+}
+.margenes{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    padding-bottom: 100px;
+    background-color: white;
+}
+.contacto{
+    background-color: whitesmoke;
+    padding-left: 10px;
+    margin-right: 10px;
+
+}
+.boton{
+    margin-top: 10px;
+    margin-left: 900px;    
+}
+.imagen-services{
+    border-radius: 100%;
+    height: 250px;
+    width: 350px;
+    margin-right: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.secondHeading{
+    display: flex;
+}
+.prettyCoolToo{
+    color: gray;
+    display: inline;
+    margin-top: 100px;
+}
+.carta{
+    border: none;
+}
+.correo{
+    display: flex;
+
+}
+.mensaje{
+    display: flex;
+}
